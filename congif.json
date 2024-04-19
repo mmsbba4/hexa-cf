@@ -1,5 +1,5 @@
 {
-  "luckyEnable": false,
-  "inappAdsEnable": false,
-  "adsDuration": 0.0
+  "luckyEnable": true,
+  "inappAdsEnable": true,
+  "adsDuration": 30.0
 }
